@@ -1,3 +1,5 @@
+package main;
+
 public enum EnumSingleton {
     INSTANCE;
     private int value;

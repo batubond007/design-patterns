@@ -1,3 +1,5 @@
+package main;
+
 public class DCLSingleton {
     private static volatile DCLSingleton instance;
     private int value;

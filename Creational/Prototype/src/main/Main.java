@@ -1,5 +1,7 @@
-import shape.Circle;
-import shape.Rectangle;
+package main;
+
+import main.shape.Circle;
+import main.shape.Rectangle;
 
 public class Main {
     public static void main(String[] args) {

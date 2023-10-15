@@ -1,4 +1,4 @@
-package shape;
+package main.shape;
 
 public abstract class Shape {
     int x, y;
